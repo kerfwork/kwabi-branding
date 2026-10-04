@@ -1,0 +1,45 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <g id="kerfwork-icon">
+    <rect x="100.0" y="111.0" width="200.0" height="200.0" fill="#5C3B2A"/>
+    <g id="data-grid">
+      <rect x="109.5" y="120.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="132.5" y="122.0" width="10" height="3" fill="#C0905A"/>
+      <circle cx="162.5" cy="123.5" r="3" fill="#C99E6B"/>
+      <circle cx="212.5" cy="123.5" r="3" fill="#C99E6B"/>
+      <circle cx="262.5" cy="123.5" r="3" fill="#C99E6B"/>
+      <circle cx="287.5" cy="123.5" r="3" fill="#C99E6B"/>
+      <rect x="134.5" y="145.5" width="6" height="6" fill="#BE8F58"/>
+      <circle cx="162.5" cy="148.5" r="3" fill="#C99E6B"/>
+      <rect x="232.5" y="147.0" width="10" height="3" fill="#C0905A"/>
+      <circle cx="262.5" cy="148.5" r="3" fill="#C99E6B"/>
+      <circle cx="112.5" cy="173.5" r="3" fill="#C99E6B"/>
+      <rect x="134.5" y="170.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="284.5" y="170.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="184.5" y="195.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="209.5" y="195.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="282.5" y="197.0" width="10" height="3" fill="#C0905A"/>
+      <rect x="109.5" y="220.5" width="6" height="6" fill="#BE8F58"/>
+      <circle cx="162.5" cy="223.5" r="3" fill="#C99E6B"/>
+      <rect x="184.5" y="220.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="207.5" y="222.0" width="10" height="3" fill="#C0905A"/>
+      <rect x="107.5" y="247.0" width="10" height="3" fill="#C0905A"/>
+      <rect x="184.5" y="245.5" width="6" height="6" fill="#BE8F58"/>
+      <circle cx="212.5" cy="248.5" r="3" fill="#C99E6B"/>
+      <circle cx="237.5" cy="248.5" r="3" fill="#C99E6B"/>
+      <circle cx="287.5" cy="248.5" r="3" fill="#C99E6B"/>
+      <circle cx="112.5" cy="273.5" r="3" fill="#C99E6B"/>
+      <rect x="134.5" y="270.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="159.5" y="270.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="232.5" y="272.0" width="10" height="3" fill="#C0905A"/>
+      <rect x="259.5" y="270.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="282.5" y="272.0" width="10" height="3" fill="#C0905A"/>
+      <rect x="132.5" y="297.0" width="10" height="3" fill="#C0905A"/>
+      <rect x="159.5" y="295.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="184.5" y="295.5" width="6" height="6" fill="#BE8F58"/>
+      <rect x="257.5" y="297.0" width="10" height="3" fill="#C0905A"/>
+      <rect x="284.5" y="295.5" width="6" height="6" fill="#BE8F58"/>
+    </g>
+    <rect x="179.0" y="111.0" width="42.0" height="92.0" fill="#D0B284"/>
+    <rect x="179.0" y="89.0" width="42.0" height="22.0" fill="#52748E"/>
+  </g>
+</svg>
