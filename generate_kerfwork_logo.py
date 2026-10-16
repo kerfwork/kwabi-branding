@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 Simon Janes
+# SPDX-License-Identifier: MIT OR Apache-2.0
 """Generate kerfwork logo SVGs: icon-only + Bricolage Grotesque wordmark lockup."""
 
 import hashlib
